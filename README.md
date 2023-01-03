@@ -17,21 +17,22 @@
 ---
 
 <div align="center">
-## Skill
+  
+   Skill 
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=solidity" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=solidity" />
 
 ---
 
-## Status do projeto
+   Status do projeto 
 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=DONE&color=green&style=for-the-badge">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DONE&color=green&style=for-the-badge">
 
 ##
 
 ---
 
 [⬆ Voltar ao topo](https://github.com/muriloolegini/My_Utility_Token/)
-</div>
+  </p>
 </div>
